@@ -3,7 +3,7 @@
 
 
 ---------
-## [Commands help](https://github.com/alexx2021/alexxbotwiki/wiki)
+## [Commands help](https://github.com/alexx2021/alexxbotdocs/wiki)
 
 [Bot invite link](https://discord.com/oauth2/authorize?client_id=752585938630082641&permissions=2080763127&scope=bot)
 
